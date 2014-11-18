@@ -13,6 +13,10 @@ gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'spring',        group: :development
 gem 'unicorn'
 gem 'haml-rails'
+gem 'rails_admin'
+gem 'devise'
+gem 'cancan'
+
 
 group :development do
   gem 'xray-rails'
