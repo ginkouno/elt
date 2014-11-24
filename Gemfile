@@ -16,7 +16,8 @@ gem 'devise'
 gem 'rails_admin'
 gem 'omniauth-github'
 gem 'omniauth-twitter'
-gem 'twitter-bootstrap-rails'
+gem 'bootstrap-sass'
+gem 'autoprefixer-rails'
 
 group :development do
   gem 'figaro'

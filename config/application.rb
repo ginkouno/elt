@@ -10,5 +10,6 @@ module Elt
       g.assets false
       g.helper false
     end
+    config.assets.precompile += %w(*.png *.jpg *.jpeg *.gif)
   end
 end
