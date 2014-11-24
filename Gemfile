@@ -16,10 +16,10 @@ gem 'devise'
 gem 'rails_admin'
 gem 'omniauth-github'
 gem 'omniauth-twitter'
-gem 'figaro'
 gem 'twitter-bootstrap-rails'
 
 group :development do
+  gem 'figaro'
   gem 'sqlite3', '1.3.9'
   gem 'rb-readline'
   gem 'xray-rails'
