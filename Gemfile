@@ -16,7 +16,7 @@ gem 'devise'
 gem 'rails_admin'
 gem 'omniauth-github'
 gem 'omniauth-twitter'
-gem 'bootstrap-sass'
+gem 'bootstrap-sass', '3.2.0.2'
 gem 'autoprefixer-rails'
 
 group :development do
